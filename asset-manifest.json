@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ravenous-Project/static/css/main.58f19979.css",
+    "main.js": "/Ravenous-Project/static/js/main.0cfc5538.js",
+    "static/js/787.16f177e3.chunk.js": "/Ravenous-Project/static/js/787.16f177e3.chunk.js",
+    "static/media/background_search_desktop.jpg": "/Ravenous-Project/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
+    "static/media/background_search_mobile.jpg": "/Ravenous-Project/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "index.html": "/Ravenous-Project/index.html",
+    "main.58f19979.css.map": "/Ravenous-Project/static/css/main.58f19979.css.map",
+    "main.0cfc5538.js.map": "/Ravenous-Project/static/js/main.0cfc5538.js.map",
+    "787.16f177e3.chunk.js.map": "/Ravenous-Project/static/js/787.16f177e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f19979.css",
+    "static/js/main.0cfc5538.js"
+  ]
+}
